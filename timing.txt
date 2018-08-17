@@ -1,0 +1,4 @@
+fixation random between 2 and 4 - average 3s
+offer = 5s
+decision = 3s
+result = 2s
